@@ -10,3 +10,7 @@
 * went to github via chrome to view results ... it worked!
 * then edited file on hard drive, went to local github console to do commit and synch commands, and voila! 
 *          could see my changes in github remote.
+*
+* edited file in github remote
+* went to local github console and synchronized
+* opened file in hard drive and the changes made in chrome were there.
