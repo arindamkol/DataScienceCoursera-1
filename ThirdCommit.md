@@ -7,4 +7,6 @@
 * git failed to accept the push command, message said I was ahead of something and needed to merge branches.
 * only way it worked was to do the touch and add commands from git
 * then do the commit and synch commands from github console
-* went to github via chrome to view results
+* went to github via chrome to view results ... it worked!
+* then edited file on hard drive, went to local github console to do commit and synch commands, and voila! 
+*          could see my changes in github remote.
